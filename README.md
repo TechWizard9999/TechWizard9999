@@ -1,5 +1,6 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Apublic+author%3ATechWizard9999&amp;type=pullrequests"><img alt="150 public pull requests, verified 23 October 2026" src="https://img.shields.io/badge/Public_PRs-150-1f6feb?logo=github" /></a> &nbsp;&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3ATechWizard9999+-user%3ATechWizard9999&amp;type=pullrequests"><img alt="53 merged pull requests to external public repositories, verified 23 October 2026" src="https://img.shields.io/badge/Merged_Open_Source_PRs-53-238636?logo=github" /></a>
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3ATechWizard9999+-user%3ATechWizard9999&amp;type=pullrequests"><img alt="53 merged pull requests to external public repositories, verified 23 October 2026" src="https://img.shields.io/badge/Merged_Open_Source_PRs-53-238636?logo=github" /></a> &nbsp;&nbsp;
+<a href="https://github.com/TechWizard9999"><img alt="Profile views (page hits)" src="https://visitor-badge.laobi.icu/badge?page_id=TechWizard9999.TechWizard9999&amp;left_text=Profile%20views&amp;right_color=green" /></a>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=38C2FF&amp;size=42&amp;center=true&amp;vCenter=true&amp;height=65&amp;width=750&amp;pause=1500&amp;lines=Hi%2C+I%27m+Roopesh+S;Software+Engineer+at+Microsoft;Welcome+to+my+profile!" alt="Hi, I'm Roopesh S. Software Engineer at Microsoft. Welcome to my profile!" width="750" />
@@ -63,18 +64,15 @@
 - **Hack-O-Fiesta V4.0:** Second runner-up; **second place in the Blockchain Track**.
 - **Dapp-Thon:** Finalist among 1,000+ participants.
 
-## GitHub Activity
+## Contribution Snake
 
-<p align="center">
-  <a href="https://github.com/TechWizard9999">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=TechWizard9999&amp;theme=github_dark" height="160" alt="Public GitHub contribution streak for TechWizard9999" />
-  </a>
-  <a href="https://github.com/TechWizard9999?tab=repositories">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=TechWizard9999&amp;layout=compact&amp;theme=github_dark" height="160" alt="Most-used languages in TechWizard9999's public repositories" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechWizard9999/TechWizard9999/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechWizard9999/TechWizard9999/output/github-snake.svg" />
+  <img alt="Animated snake following TechWizard9999's GitHub contribution graph" src="https://raw.githubusercontent.com/TechWizard9999/TechWizard9999/output/github-snake.svg" width="100%" />
+</picture>
 
-<sub>Dynamic cards reflect public GitHub activity; updates may be cached.</sub>
+<sub>Generated daily from my GitHub contribution graph with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
 
 ## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="40" alt="Animated handshake" /> Let's Connect
 
