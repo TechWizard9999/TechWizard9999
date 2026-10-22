@@ -72,8 +72,6 @@
   <img alt="Animated snake following TechWizard9999's GitHub contribution graph" src="https://raw.githubusercontent.com/TechWizard9999/TechWizard9999/output/github-snake.svg" width="100%" />
 </picture>
 
-<sub>Generated daily from my GitHub contribution graph with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
-
 ## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="40" alt="Animated handshake" /> Let's Connect
 
 <p align="center">
