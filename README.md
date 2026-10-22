@@ -1,47 +1,24 @@
-# Roopesh
+# 💫 About Me:
+🚀 Currently working on: Crafting scalable Web3 apps and mastering MERN stack.<br><br>🤝 Looking to collaborate: Seeking partners in innovation for the next big Web3 project.<br><br>🙌 Seeking help: Eager for insights on blockchain best practices and smart contract development.<br><br>🌱 Currently learning: Advancing in blockchain security and optimizing React for peak performance.<br><br>💡 Ask me about: Deep dives into Web3, MERN insights, and winning hackathon strategies.<br><br>⚡ Fun fact: Earned the nickname 'Noodle-Fueled Coding Champion' after a marathon hackathon win.
 
-Software Engineer at **Microsoft** working on PowerPoint Copilot.  
-Focused on distributed backend services, systems C++, and autonomous AI agents for software testing & debugging.
 
-[LinkedIn](https://www.linkedin.com/in/s-roopesh-39934229a/) · [Codeforces (Specialist)](https://codeforces.com/profile/springg) · [Email](mailto:roopesh1724989@gmail.com)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TechWizard9999&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TechWizard9999&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWizard9999&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🛠️ Open Source Contributions
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TechWizard9999&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-| Project | Focus & Impact | PRs |
-|---|---|:---:|
-| [**Carbon Language**](https://github.com/carbon-language/carbon-lang) | Compiler lowering fixes, generic call crash resolution (`#6679`) | [Merged](https://github.com/carbon-language/carbon-lang/pulls?q=is%3Apr+author%3ATechWizard9999) |
-| [**NVIDIA Infra Controller**](https://github.com/dsx-ai-factory/infra-controller) | Hardware lifecycle, Ethernet interface configs (`#6808`), APT packaging (`#7216`) | [Merged](https://github.com/dsx-ai-factory/infra-controller/pulls?q=is%3Apr+author%3ATechWizard9999) |
-| [**RTK**](https://github.com/rtk-ai/rtk) | CLI error handling contracts, init guards, tee-mode recall store (`#4383`, `#4323`, `#4263`) | [Merged](https://github.com/rtk-ai/rtk/pulls?q=is%3Apr+author%3ATechWizard9999) |
-
----
-
-### 💻 Technologies & Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,rust,nodejs,react,nextjs,redis,mongodb,git,linux&perline=13" alt="Tech Stack" />
-  </a>
-</p>
-
-- **Core & Systems:** C++, Rust *(learning)*, Java (Spring Boot), TypeScript, Node.js
-- **AI & Agentic Systems:** LangGraph, LangChain, Playwright MCP, Tool-Augmented LLM Agents
-- **Data & Storage:** Redis, MongoDB, MySQL, IPFS
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=TechWizard9999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📈 Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechWizard9999&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide=stars,issues&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=TechWizard9999&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechWizard9999/TechWizard9999/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechWizard9999/TechWizard9999/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/TechWizard9999/TechWizard9999/output/github-snake.svg">
-  </picture>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
