@@ -1,5 +1,5 @@
-<a href="https://github.com/search?q=is%3Apr+is%3Apublic+author%3ATechWizard9999&amp;type=pullrequests"><img alt="150 public pull requests, verified 23 October 2026" src="https://img.shields.io/badge/Public_PRs-150-1f6feb?logo=github" /></a> &nbsp;&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3ATechWizard9999+-user%3ATechWizard9999&amp;type=pullrequests"><img alt="53 merged pull requests to external public repositories, verified 23 October 2026" src="https://img.shields.io/badge/Merged_Open_Source_PRs-53-238636?logo=github" /></a> &nbsp;&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Apublic+author%3ATechWizard9999&amp;type=pullrequests"><img alt="Automatically updated public pull request count" src="https://img.shields.io/github/issues-search?query=is%3Apr+is%3Apublic+author%3ATechWizard9999&amp;label=Public+PRs&amp;color=1f6feb&amp;logo=github" /></a> &nbsp;&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3ATechWizard9999+-user%3ATechWizard9999&amp;type=pullrequests"><img alt="Automatically updated merged pull request count for external public repositories" src="https://img.shields.io/github/issues-search?query=is%3Apr+is%3Amerged+is%3Apublic+author%3ATechWizard9999+-user%3ATechWizard9999&amp;label=Merged+Open+Source+PRs&amp;color=238636&amp;logo=github" /></a> &nbsp;&nbsp;
 <a href="https://github.com/TechWizard9999"><img alt="Profile views (page hits)" src="https://visitor-badge.laobi.icu/badge?page_id=TechWizard9999.TechWizard9999&amp;left_text=Profile%20views&amp;right_color=green" /></a>
 
 <div align="center">
@@ -23,6 +23,11 @@
 - :trophy: **SuperMove Tour DAppathon winner** and **HackOdisha 3.0 Gaming Track runner-up**.
 
 <br clear="both" />
+
+## Open-source Highlights
+
+- **NVIDIA DSX:** Fixed managed-host resets for predicted hosts while preserving existing safety checks. [Merged contribution](https://github.com/dsx-ai-factory/infra-controller/pull/7443).
+- **RTK:** Corrected CLI argument handling so invalid diff commands return a proper usage error. [Merged contribution](https://github.com/rtk-ai/rtk/pull/4383).
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" height="50" alt="Animated code icon" /> Languages and Tools
 
