@@ -24,11 +24,6 @@
 
 <br clear="both" />
 
-## Open-source Highlights
-
-- **NVIDIA DSX:** Fixed managed-host resets for predicted hosts while preserving existing safety checks. [Merged contribution](https://github.com/dsx-ai-factory/infra-controller/pull/7443).
-- **RTK:** Corrected CLI argument handling so invalid diff commands return a proper usage error. [Merged contribution](https://github.com/rtk-ai/rtk/pull/4383).
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" height="50" alt="Animated code icon" /> Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
