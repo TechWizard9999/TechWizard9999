@@ -87,6 +87,6 @@
 </p>
 
 <div align="center">
-  Thanks for visiting! Always happy to connect and exchange ideas.<br />
+  Always happy to connect and exchange ideas.<br />
   <strong>Roopesh S | TechWizard9999</strong>
 </div>
